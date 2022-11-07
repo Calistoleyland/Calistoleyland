@@ -1,6 +1,6 @@
 ### Hi there, my name is Diana 👋
 - 🌱 I’m currently a student QA course by Vadim Ksendzov   
-- 💬 My contacts [Email][as] [Telegram][tg] [WhatsApp][wa]          
+- 💬 My contacts [Email][as] | [Telegram][tg] | [WhatsApp][wa]          
 - ⚡ I’m learning Tools: PostgreSQL, GIT, Postman, DevTools, JS
 
 <!--
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[as]:[dianamasliy36@gmail.com]
-[tg]:[https://t.me/calistoleyland]
-[wa]:[https://wa.me/+79513863379]
+[as]:mailto:dianamasliy36@gmail.com
+[tg]:https://t.me/calistoleyland
+[wa]:https://wa.me/+79513863379
