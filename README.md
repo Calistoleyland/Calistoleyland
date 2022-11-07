@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Diana 👋
+- 🌱 I’m currently a student QA course by Vadim Ksendzov   
+- 💬 My contacts [Email][as] [Telegram][tg] [WhatsApp][wa]          
+- ⚡ I’m learning Tools: PostgreSQL, GIT, Postman, DevTools, JS
 
 <!--
 **Calistoleyland/Calistoleyland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[as]:[dianamasliy36@gmail.com]
+[tg]:[https://t.me/calistoleyland]
+[wa]:[https://wa.me/+79513863379]
