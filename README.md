@@ -1,4 +1,4 @@
-### Hi there, my name is Diana 👋
+## Hi there, my name is Diana 👋
 - 🌱 I’m currently a student QA course by Vadim Ksendzov   
 - 💬 My contacts [Email][as] | [Telegram][tg] | [WhatsApp][wa]          
 
